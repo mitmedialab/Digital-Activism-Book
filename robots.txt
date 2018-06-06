@@ -1,0 +1,5 @@
+Sitemap: http://book.globaldigitalactivism.org/?feed=sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/

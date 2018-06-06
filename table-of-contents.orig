@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ --> 
+<!--[if lt IE 7 ]> <html lang="en-US" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en-US" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-US" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-US" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en-US" class="no-js"> <!--<![endif]-->
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+      </script>
+    <![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="http://book.globaldigitalactivism.org/wp-content/themes/pressbooks-book/favicon.ico" />
+<title>Table of Contents | Global Dimensions of Digital Activism | Simple Book Production</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://book.globaldigitalactivism.org/xmlrpc.php" />
+
+<link rel='stylesheet' id='pressbooks-css'  href='http://book.globaldigitalactivism.org/wp-content/themes/pressbooks-book/style.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='pressbooks-fonts-css'  href='http://fonts.googleapis.com/css?family=Cardo%3A400%2C400italic%2C700%7COswald&#038;ver=3.9.24' type='text/css' media='all' />
+<script type='text/javascript' src='http://book.globaldigitalactivism.org/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://book.globaldigitalactivism.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://book.globaldigitalactivism.org/wp-content/themes/pressbooks-book/js/script.js?ver=1.0'></script>
+<meta name="generator" content="WordPress 3.9.24" />
+
+</head>
+<body class="blog" id="tableofcontents">
+<!-- Faccebook share js sdk -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- end Facebook JS -->
+
+	   	 
+			
+		<div class="nav-container">
+				<nav>
+			 		<!-- Book Title -->
+				    <h1 class="book-title"><a href="http://book.globaldigitalactivism.org/" title="Global Dimensions of Digital Activism" rel="home">Global Dimensions of Digital Activism</a></h1>
+			    
+			   
+			    
+					    <div class="sub-nav-left">
+							<!-- Logo -->
+							<h2 class="pressbooks-logo"><a href="/">Global Digital Activism</a></h2>
+					    </div> <!-- end .sub-nav-left -->
+			    
+			    <div class="sub-nav-right">
+			    
+<span class="pressbooks-logo"><a href="http://civic.mit.edu/">MIT Center for Civic Media</a></span>
+
+					    	
+						
+						<!-- --> 
+				
+				</div> <!-- end .sub-nav-right -->
+			</nav>
+			      
+			  <div class="sub-nav">       
+			     <!-- Author Name -->   
+			    <div class="author-wrap"> 
+			    									     	<h3>Edited by Ethan Zuckerman and Lorrie LeJeune</h3>
+		     					     </div> <!-- end .author-name -->
+		     
+			  </div><!-- end sub-nav -->  
+			    
+				 
+		</div> <!-- end .nav-container -->
+
+	<div class="wrapper"><!-- for sitting footer at the bottom of the page -->	    
+			<div id="wrap">	    
+				<div id="content">
+
+	 			<div id="post-1" class="post-1 post type-post status-publish format-standard hentry category-uncategorized">
+	<h2 class="page-title">Table of Contents</h2>
+	<!-- Table of content loop goes here. -->
+	<ul id="inline-toc">
+
+		<li>
+			<ul>
+											<li class="front-matter introduction"><a href="http://book.globaldigitalactivism.org/front-matter/introduction/">Introduction</a></li>
+						</ul>
+		</li>
+
+					<li><h4></h4><ul>
+											<li class="chapter type-1"><a href="http://book.globaldigitalactivism.org/chapter/digital-activism-in-sudan/">Digital Activism in Sudan</a></li>
+											<li class="chapter type-1"><a href="http://book.globaldigitalactivism.org/chapter/virtual-rynda-the-atlas-of-help-mutual-aid-as-a-form-of-social-activism/">Virtual Rynda – The Atlas of Help:  Mutual Aid as a Form of Social Activism</a></li>
+											<li class="chapter type-1"><a href="http://book.globaldigitalactivism.org/chapter/election-of-the-russian-opposition-coordinating-council/">Election of the Russian Opposition Coordinating Council</a></li>
+											<li class="chapter type-1"><a href="http://book.globaldigitalactivism.org/chapter/project-light-up-nigeria-power-in-our-hands/">Project Light Up Nigeria:  Power In Our Hands</a></li>
+										</ul></li>
+		
+		<li>
+			<ul>
+							</ul>
+		</li>
+
+	</ul>
+	</div><!-- #post-## -->
+	
+	</div><!-- #content -->
+
+
+		
+	<div id="sidebar">
+
+		<ul id="booknav">
+		<!-- If Logged in show ADMIN -->
+								
+				<li class="home-btn"><a href="http://book.globaldigitalactivism.org">Home</a></li>
+
+		<!-- TOC button always there -->
+				<li class="toc-btn"><a href="http://book.globaldigitalactivism.org/table-of-contents">Table of Contents</a></li>
+			</ul>
+
+		<!-- Pop out TOC only on READ pages -->
+		
+
+	</div><!-- end #sidebar -->
+	
+	</div><!-- #wrap -->
+	<div class="push"></div>
+	
+	</div><!-- .wrapper for sitting footer at the bottom of the page -->
+
+
+<div class="footer">
+	<div class="inner">
+								
+			<table>
+				<tr>
+					<td>Book Name:</td>
+					<td>Global Dimensions of Digital Activism</td>
+				</tr>
+				       			 																												<tr>
+					<td>Author</td>
+					<td>Edited by Ethan Zuckerman and Lorrie LeJeune</td>
+																<tr>
+					<td>Publisher</td>
+					<td>MIT Center for Civic Media</td>
+																																																																				</tr>
+				<tr><td>Copyright</td><td>2014 by MIT Center for Civic Media. <br/>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/us/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-NonCommercial 3.0 United States License</a>.
+				</td></tr>
+
+				</table>
+											<p class="cie-name"><a href="http://civic.mit.edu">MIT Center for Civic Media</a></p>
+	</div><!-- #inner -->
+</div><!-- #footer -->
+<script type='text/javascript' src='http://book.globaldigitalactivism.org/wp-content/themes/pressbooks-book/js/keyboard-nav.js?ver=20130306'></script>
+</body>
+</html>
